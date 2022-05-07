@@ -28,7 +28,7 @@
 
 ### Contact With Me
 
-![emailto:amriyevuz@gmail.com](https://img.shields.io/badge/-abdulbosit.dev@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![emailto:abdulbosit.dev@gmail.com](https://img.shields.io/badge/-Email-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/abdulbos1t)
 
 
